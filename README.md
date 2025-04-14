@@ -1,0 +1,2 @@
+# aivshuman
+AI vs Human
